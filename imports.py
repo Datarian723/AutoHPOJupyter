@@ -1,4 +1,9 @@
 # ---------------------------
+# Special Imports
+# ---------------------------
+from __future__ import annotations  # Enable forward references for type hints
+
+# ---------------------------
 # Standard Libraries
 # ---------------------------
 import os  # Operating system utilities
@@ -18,7 +23,6 @@ from inspect import signature  # Inspecting callable signatures
 from typing import Callable, Union  # Type annotations for type hints
 from ast import Is  # Abstract syntax tree utilities
 from abc import ABC, abstractmethod  # Abstract Base Classes for inheritance
-from __future__ import annotations  # Enable forward references for type hints
 
 # ---------------------------
 # Scientific Libraries
