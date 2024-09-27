@@ -1,4 +1,19 @@
+# Core Scientific Libraries
+numpy
+pandas
+matplotlib
+
+# PyTorch and Related Modules
+torch
+torchvision
+
+# FastAI Libraries
 fastai
+
+# Optuna for Hyperparameter Optimization
 optuna
 optuna-integration
+
+# Additional Libraries
 scipy
+sortedcontainers
