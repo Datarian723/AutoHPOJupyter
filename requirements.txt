@@ -1,0 +1,4 @@
+fastai
+optuna
+optuna-integration
+scipy
